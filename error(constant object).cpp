@@ -16,7 +16,7 @@ public:
     {
         cout<<a;
     }*/
-};
+};//A class of constant functions
 int main()
 {
     const hello a1;
